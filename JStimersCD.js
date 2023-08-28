@@ -17,4 +17,4 @@ function countDown(num) {
     }, 1000)
   }
   
-  countDown(10);
+  countDown(24);
